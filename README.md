@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stephen Luong</h1>
 
 <h3 align="center">
-Bachelor of Mathematics (Data Science) @ Adelaide University 🇦🇺
+Bachelor of Mathematics (Data Science) @ Adelaide University
 </h3>
 
 <p align="center">
@@ -60,7 +60,7 @@ I'm currently seeking internship opportunities in:
 
 # 💼 Experience
 
-## 🇻🇳 Vietnam Electricity (EVN)
+## Vietnam Electricity (EVN)
 
 ### IT & Data Analytics Intern
 
@@ -218,17 +218,14 @@ A full-stack web application built using SQL and ASP.NET.
 
 # 🤝 Connect with Me
 
-📧 **Email**  
-**minhkhoi21.099@gmail.com**
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio-stephen-luong.vercel.app/)
 
-💼 **LinkedIn**  
-https://linkedin.com/in/stephen09
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Stephen_Luong-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/stephen09)
 
-🌐 **Portfolio Website**  
-https://portfolio-stephen-luong.vercel.app/
+[![GitHub](https://img.shields.io/badge/GitHub-klm2109-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/klm2109)
 
-📂 **GitHub**  
-https://github.com/klm2109
+[![Email](https://img.shields.io/badge/Email-minhkhoi21.099%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minhkhoi21.099@gmail.com)
+
 
 ---
 
