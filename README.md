@@ -73,7 +73,7 @@ I'm currently seeking internship opportunities in:
 
 ---
 
-## 🇦🇺 StudyAdelaide
+## StudyAdelaide
 
 ### Student Ambassador
 
@@ -107,7 +107,7 @@ I'm currently seeking internship opportunities in:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
@@ -159,6 +159,7 @@ I'm currently seeking internship opportunities in:
 # 📂 Featured Projects
 
 ## ⚽ Soccer Player Valuation & Performance Analysis
+🌐 **Live Dashboard:** [View Dashboard]((https://stephen09.shinyapps.io/Final_Project_MATHX314/))
 
 An end-to-end analytics project exploring the factors influencing football player market values across Europe's top leagues.
 
@@ -173,7 +174,7 @@ An end-to-end analytics project exploring the factors influencing football playe
 ---
 
 ## ⚡ Adelaide Weather Analytics Dashboard
-
+🌐 **Live Dashboard:** [View Dashboard](https://onedrive.live.com/:x:/g/personal/cce479c18b5d0a67/IQCLRWsmEUAOT4wdYgfkPRQLAUJoRfrc2TQpi9jQ5gBAp3Y?rtime=BYHXCavy3kg&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy9jY2U0NzljMThiNWQwYTY3L0lRQ0xSV3NtRVVBT1Q0d2RZZ2ZrUFJRTEFVSm9SZnJjMlRRcGk5alE1Z0JBcDNZP2U9aGFPa0xG)
 Interactive dashboard analysing Adelaide weather data using Microsoft Excel.
 
 **Highlights**
@@ -186,6 +187,8 @@ Interactive dashboard analysing Adelaide weather data using Microsoft Excel.
 ---
 
 ## 🎲 Board Game Web Application
+🔗 **Repository:** [GitHub Repository](https://github.com/klm2109/BoardGame)
+
 
 A full-stack web application built using SQL and ASP.NET.
 
