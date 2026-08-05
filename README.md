@@ -159,7 +159,7 @@ I'm currently seeking internship opportunities in:
 # 📂 Featured Projects
 
 ## ⚽ Soccer Player Valuation & Performance Analysis
-🌐 **Live Dashboard:** [View Dashboard]((https://stephen09.shinyapps.io/Final_Project_MATHX314/))
+🌐 **Live Dashboard:** [View Dashboard](https://stephen09.shinyapps.io/Final_Project_MATHX314/)
 
 An end-to-end analytics project exploring the factors influencing football player market values across Europe's top leagues.
 
@@ -175,6 +175,7 @@ An end-to-end analytics project exploring the factors influencing football playe
 
 ## ⚡ Adelaide Weather Analytics Dashboard
 🌐 **Live Dashboard:** [View Dashboard](https://onedrive.live.com/:x:/g/personal/cce479c18b5d0a67/IQCLRWsmEUAOT4wdYgfkPRQLAUJoRfrc2TQpi9jQ5gBAp3Y?rtime=BYHXCavy3kg&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy9jY2U0NzljMThiNWQwYTY3L0lRQ0xSV3NtRVVBT1Q0d2RZZ2ZrUFJRTEFVSm9SZnJjMlRRcGk5alE1Z0JBcDNZP2U9aGFPa0xG)
+
 Interactive dashboard analysing Adelaide weather data using Microsoft Excel.
 
 **Highlights**
