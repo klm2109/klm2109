@@ -222,13 +222,13 @@ A full-stack web application built using SQL and ASP.NET.
 **minhkhoi21.099@gmail.com**
 
 💼 **LinkedIn**  
-[https://linkedin.com/in/stephen09](url)
+https://linkedin.com/in/stephen09
 
 🌐 **Portfolio Website**  
-[https://portfolio-stephen-luong.vercel.app/](url)
+https://portfolio-stephen-luong.vercel.app/
 
 📂 **GitHub**  
-[https://github.com/klm2109](url)
+https://github.com/klm2109
 
 ---
 
