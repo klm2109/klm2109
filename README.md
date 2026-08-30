@@ -203,7 +203,7 @@ A full-stack web application built using SQL and ASP.NET.
 ---
 ## ⚡ Electricity Demand & Spot Price Analytics
 
-🔗 **Repository:** [View Project](ADD_YOUR_GITHUB_REPOSITORY_LINK_HERE)
+🔗 **Repository:** [View Project](https://github.com/klm2109/australian-energy-market-analytics)
 
 An end-to-end energy analytics project investigating the relationship between **electricity demand and wholesale spot prices** using 5-minute electricity market data.
 
