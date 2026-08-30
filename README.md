@@ -201,6 +201,46 @@ A full-stack web application built using SQL and ASP.NET.
 - Full-Stack Development
 
 ---
+## ⚡ Electricity Demand & Spot Price Analytics
+
+🔗 **Repository:** [View Project](ADD_YOUR_GITHUB_REPOSITORY_LINK_HERE)
+
+An end-to-end energy analytics project investigating the relationship between **electricity demand and wholesale spot prices** using 5-minute electricity market data.
+
+The project explores how electricity demand, time of day, and demand conditions are associated with spot-price behaviour, including **price spikes and negative-price events**.
+
+**Key Findings**
+
+- Identified a clear positive relationship between electricity demand and spot prices.
+- Linear regression produced an **R² of 0.371**, indicating that electricity demand explains approximately 37% of the observed variation in spot prices.
+- Median spot prices increased substantially from **low-demand to very-high-demand periods**.
+- Price-spike probability increased sharply under **very-high-demand conditions**.
+- Price spikes were concentrated around **morning and evening peak-demand periods**, particularly in the late afternoon and evening.
+- Negative prices occurred predominantly during **low-demand periods** and were concentrated around the middle of the day.
+- The results demonstrate that electricity prices are influenced by both **demand conditions and temporal patterns**, while also suggesting that additional market factors are required to fully explain price behaviour.
+
+**Technical Highlights**
+
+- Python & Jupyter Notebook
+- Pandas & NumPy
+- Data Cleaning & Feature Engineering
+- Exploratory Data Analysis (EDA)
+- Time-Series Analysis
+- Statistical Analysis
+- Linear Regression
+- Price-Spike Detection
+- Negative-Price Analysis
+- Matplotlib Data Visualisation
+
+**Machine Learning Extension**
+
+The project is being extended with machine learning models to investigate:
+
+- 📈 **Spot Price Prediction** — regression models for predicting electricity spot prices
+- ⚠️ **Price Spike Classification** — classification models for identifying high-price events
+- 🔍 **Feature Importance** — evaluating how demand, hour of day, weekday/weekend patterns, and other features contribute to electricity price behaviour
+
+---
 
 # 📜 Certifications
 
