@@ -42,7 +42,6 @@ I'm currently seeking internship opportunities in:
 ### 🏆 Awards
 
 - Chancellor's Letter of Commendation (Top 5% GPA)
-- International Merit Scholarship
 - Richard Oertel Mathematics Scholarship
 
 ### 📚 Relevant Coursework
